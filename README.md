@@ -10,4 +10,4 @@ The data will be downloaded, cleaned, and converted from dollars to baht before 
 We will then set up an Apache Airflow pipeline to automate the process of loading the data into Google BigQuery for further analysis and visualization.
 
 
-Here is the final result: [Google Looker Studio]([https://www.google.com "Google's Homepage"](https://lookerstudio.google.com/reporting/f1b10a9f-46c8-428d-96fc-ae5d1c1f30e3)
+Here is the final result: [Google Looker Studio](https://lookerstudio.google.com/reporting/f1b10a9f-46c8-428d-96fc-ae5d1c1f30e3)
